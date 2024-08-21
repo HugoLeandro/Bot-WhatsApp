@@ -4,10 +4,14 @@ Envia mensagens para Grupos, Contatos ou Telefones com DDD
 
 
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_light.png" width=800/>
+<img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_dark.png" width=800/>
+
+## Instruções de Uso
+Atenção: Esse software só funciona em monitores de 15 polegadas
+
+# Envuiar Mensagens para Grupos ou Contatos
 
 
-## Menu de Filmes
-Nesta parte, o filme em destaque fica na parte superior somo sujestão ao usuário:
 
 <img src="https://github.com/HugoLeandro/django/blob/main/imagens/filmes.png" width=800/>
 
