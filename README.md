@@ -1,10 +1,9 @@
 
-# Clone da Netflix com Django
-Uma plantaforma Stream completa
+# Bot WhatsApp Web
+Envia mensagens para Grupos, Contatos ou Telefones com DDD
 
-Link: https://openflix-django.up.railway.app/
 
-<img src="https://github.com/HugoLeandro/django/blob/main/imagens/homepage.png" width=800/>
+<img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_light.png" width=800/>
 
 
 ## Menu de Filmes
