@@ -20,7 +20,7 @@ Atenção: Esse software só funciona em monitores de 15 polegadas
 Configuração
 Crie uma planilha:
 Colunas: Nome (obrigatório) e Telefone (opcional).
-Formato: CSV ou Excel.
+Formato: Excel.
 Aba: Por padrão, o bot busca pela aba "Planilha1".
 
 Formatos de Planilha
