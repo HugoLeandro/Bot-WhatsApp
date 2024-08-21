@@ -1,30 +1,39 @@
 
 # Bot WhatsApp Web
-Envia mensagens para Grupos, Contatos ou Telefones com DDD
+
+**Envie mensagens personalizadas para seus contatos e grupos diretamente do WhatsApp Web.**
+
+## Introdução
+
+Este bot simplifica o envio de mensagens em massa pelo WhatsApp Web. Basta preparar uma planilha com seus contatos e a mensagem desejada, e o bot fará o resto.
 
 
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_light.png" width=800/>
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_dark.png" width=800/>
 
 ## Instruções de Uso
+
+Abra Seu WhatsApp Web
+
 Atenção: Esse software só funciona em monitores de 15 polegadas
 
-## Envuiar Mensagens para Grupos ou Contatos
-Usa uma planilha com uma coluna nome e os nomes de grupos ou contatos para quem deseja enviar a mensagem
+Configuração
+Crie uma planilha:
+Colunas: Nome (obrigatório) e Telefone (opcional).
+Formato: CSV ou Excel.
+Aba: Por padrão, o bot busca pela aba "Planilha1".
 
-<img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/excel_gc.png" width=400/>
-
-
-## A aba da planilha deve sempre ser chamada de Planilha1
-
-<img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/excel_pl.png" width=400/>
-
-## Enviar Mensagens Para Números que não estão na lista de contatos
-Use uma planilha com uma coluna nome e outra telefone
-Atenção: Lembre-se de colocar o telefone +ddd
+Formatos de Planilha
+Para grupos e contatos:
+Uma coluna "Nome" com os nomes dos grupos ou contatos.
+Para números de telefone:
+Duas colunas: "Nome" e "Telefone" (com DDD).
 
 
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/excel_tl.png" width=400/>
+
+
+
 
 
 
