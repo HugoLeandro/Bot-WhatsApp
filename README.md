@@ -17,13 +17,15 @@ Abra Seu WhatsApp Web
 
 Atenção: Esse software só funciona em monitores de 15 polegadas
 
-Configuração
+## Configuração
+
 Crie uma planilha:
 Colunas: Nome (obrigatório) e Telefone (opcional).
 Formato: Excel.
 Aba: Por padrão, o bot busca pela aba "Planilha1".
 
-Formatos de Planilha
+## Formatos de Planilha
+
 Para grupos e contatos:
 Uma coluna "Nome" com os nomes dos grupos ou contatos.
 Para números de telefone:
