@@ -1,21 +1,25 @@
 
 # Bot WhatsApp Web
 
-**Envie mensagens personalizadas para seus contatos e grupos diretamente do WhatsApp Web.**
+**Automatize o envio de mensagens personalizadas para contatos e grupos diretamente pelo WhatsApp Web.**
 
-## Introdução
+## Visão Geral
 
-Este bot simplifica o envio de mensagens em massa pelo WhatsApp Web. Basta preparar uma planilha com seus contatos e a mensagem desejada, e o bot fará o resto.
+Este bot foi desenvolvido para facilitar o envio de mensagens em massa via WhatsApp Web. Com uma simples planilha contendo seus contatos e as mensagens desejadas, você pode enviar mensagens personalizadas com apenas alguns cliques.
 
 
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_light.png" width=800/>
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_dark.png" width=800/>
 
-## Instruções de Uso
+## Como Usar
 
-Abra Seu WhatsApp Web
+**Abra o WhatsApp Web** em seu navegador.
 
-Atenção: Esse software só funciona em monitores de 15 polegadas
+**Prepare sua planilha** com os contatos e mensagens.
+
+**Execute o bot** e deixe-o fazer o trabalho por você.
+
+**Nota:** Este software foi otimizado para uso em monitores de 15 polegadas.
 
 ## Configuração
 
