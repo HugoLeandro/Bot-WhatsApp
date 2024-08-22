@@ -30,9 +30,9 @@ Este bot foi desenvolvido para facilitar o envio de mensagens em massa via Whats
 
 **Colunas:**
 
-    **Nome** (obrigatório)
+    Nome (obrigatório)
 
-    **Telefone** (opcional)
+    Telefone (opcional)
 
 **Formato:** Excel (.xlsx).
 
