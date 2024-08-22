@@ -26,16 +26,19 @@ Este bot foi desenvolvido para facilitar o envio de mensagens em massa via Whats
 **Criando a Planilha**
 
 **Colunas:**
-'nome' (obrigatório)
-'telefone' (opcional)
-Aba: Por padrão, o bot busca pela aba "Planilha1".
+**Nome** (obrigatório)
+**Telefone** (opcional)
+**Formato:** Excel (.xlsx).
+**Aba:** O bot procura automaticamente pela aba chamada "Planilha1".
 
-## Formatos de Planilha
+## Exemplos de Formatação da Planilha
 
-Para grupos e contatos:
-Uma coluna "Nome" com os nomes dos grupos ou contatos.
-Para números de telefone:
-Duas colunas: "Nome" e "Telefone" (com DDD).
+**Para Envio a Grupos ou Contatos**
+Uma coluna com o **'Nome'** dos grupos ou contatos.
+
+**Para Envio a Números de Telefone**
+
+Duas colunas: **'Nome'** e **'Telefone'** (incluindo DDD).
 
 
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/excel_tl.png" width=400/>
