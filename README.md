@@ -5,7 +5,7 @@
 
 ## Visão Geral
 
-Este bot foi desenvolvido para facilitar o envio de mensagens em massa via WhatsApp Web. Com uma simples planilha contendo seus contatos e as mensagens desejadas, você pode enviar mensagens personalizadas com apenas alguns cliques.
+Este bot foi desenvolvido para facilitar o envio de mensagens em massa via WhatsApp Web. Com uma simples planilha contendo seus contatos desejadas, você pode enviar mensagens personalizadas com apenas alguns cliques.
 
 
 
@@ -18,7 +18,7 @@ Este bot foi desenvolvido para facilitar o envio de mensagens em massa via Whats
 
 **Abra o WhatsApp Web** em seu navegador.
 
-**Prepare sua planilha** com os contatos e mensagens.
+**Prepare sua planilha** com os contatos.
 
 **Execute o bot** e deixe-o fazer o trabalho por você.
 
