@@ -23,9 +23,11 @@ Este bot foi desenvolvido para facilitar o envio de mensagens em massa via Whats
 
 ## Configuração
 
-Crie uma planilha:
-Colunas: Nome (obrigatório) e Telefone (opcional).
-Formato: Excel.
+**Criando a Planilha**
+
+**Colunas:**
+'nome' (obrigatório)
+'telefone' (opcional)
 Aba: Por padrão, o bot busca pela aba "Planilha1".
 
 ## Formatos de Planilha
