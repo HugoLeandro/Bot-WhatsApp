@@ -8,7 +8,10 @@
 Este bot foi desenvolvido para facilitar o envio de mensagens em massa via WhatsApp Web. Com uma simples planilha contendo seus contatos e as mensagens desejadas, você pode enviar mensagens personalizadas com apenas alguns cliques.
 
 
+
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_light.png" width=800/>
+
+\n
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_dark.png" width=800/>
 
 ## Como Usar
