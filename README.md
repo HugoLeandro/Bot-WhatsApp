@@ -11,7 +11,7 @@ Este bot foi desenvolvido para facilitar o envio de mensagens em massa via Whats
 
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_light.png" width=800/>
 
-\n
+<br>
 <img src="https://github.com/HugoLeandro/Bot-WhatsApp/blob/main/imagens/tela_dark.png" width=800/>
 
 ## Como Usar
